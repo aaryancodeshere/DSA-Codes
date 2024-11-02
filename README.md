@@ -53,12 +53,15 @@ Feel free to contribute to this repository by:
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
