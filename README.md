@@ -47,6 +47,7 @@ Feel free to contribute to this repository by:
 ## String
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2580-circular-sentence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2580-circular-sentence) |
 ## Tree
@@ -71,4 +72,8 @@ Feel free to contribute to this repository by:
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0101-symmetric-tree) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
