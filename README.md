@@ -50,6 +50,7 @@ Feel free to contribute to this repository by:
 | [0812-rotate-string](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2580-circular-sentence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2580-circular-sentence) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3451-string-compression-iii) |
 ## Tree
 |  |
