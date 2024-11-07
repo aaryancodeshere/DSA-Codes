@@ -29,6 +29,7 @@ Feel free to contribute to this repository by:
 | [2554-minimum-total-distance-traveled](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2554-minimum-total-distance-traveled) |
 | [3291-find-if-array-can-be-sorted](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3291-find-if-array-can-be-sorted) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -99,16 +100,20 @@ Feel free to contribute to this repository by:
 |  |
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Matrix
 |  |
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
 |  |
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 <!---LeetCode Topics End-->
