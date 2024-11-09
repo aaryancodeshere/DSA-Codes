@@ -90,6 +90,7 @@ Feel free to contribute to this repository by:
 | [1940-maximum-xor-for-each-query](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3291-find-if-array-can-be-sorted) |
+| [3394-minimum-array-end](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3394-minimum-array-end) |
 ## Hash Table
 |  |
 | ------- |
