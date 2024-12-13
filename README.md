@@ -33,6 +33,7 @@ Feel free to contribute to this repository by:
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2554-minimum-total-distance-traveled](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2554-minimum-total-distance-traveled) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3291-find-if-array-can-be-sorted) |
@@ -68,6 +69,7 @@ Feel free to contribute to this repository by:
 | [1468-check-if-n-and-its-double-exist](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2554-minimum-total-distance-traveled](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2554-minimum-total-distance-traveled) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3291-find-if-array-can-be-sorted) |
 ## String
@@ -121,6 +123,7 @@ Feel free to contribute to this repository by:
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Counting
@@ -138,6 +141,7 @@ Feel free to contribute to this repository by:
 |  |
 | ------- |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Matrix
@@ -181,4 +185,5 @@ Feel free to contribute to this repository by:
 |  |
 | ------- |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 <!---LeetCode Topics End-->
