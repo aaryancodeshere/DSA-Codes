@@ -38,6 +38,7 @@ Feel free to contribute to this repository by:
 | [2716-prime-subtraction-operation](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3291-find-if-array-can-be-sorted) |
 | [3427-special-array-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3427-special-array-ii) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Binary Search
@@ -142,6 +143,7 @@ Feel free to contribute to this repository by:
 | ------- |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Matrix
@@ -164,6 +166,7 @@ Feel free to contribute to this repository by:
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2716-prime-subtraction-operation) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -186,4 +189,5 @@ Feel free to contribute to this repository by:
 | ------- |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
