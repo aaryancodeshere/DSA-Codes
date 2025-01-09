@@ -31,6 +31,7 @@ Feel free to contribute to this repository by:
 | [1940-maximum-xor-for-each-query](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1940-maximum-xor-for-each-query) |
 | [2089-maximum-matrix-sum](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2089-maximum-matrix-sum) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2554-minimum-total-distance-traveled](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2554-minimum-total-distance-traveled) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -82,6 +83,7 @@ Feel free to contribute to this repository by:
 | [1302-delete-characters-to-make-fancy-string](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2300-construct-string-with-repeat-limit) |
 | [2580-circular-sentence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2580-circular-sentence) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -120,6 +122,7 @@ Feel free to contribute to this repository by:
 | ------- |
 | [0812-rotate-string](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
