@@ -105,6 +105,7 @@ Feel free to contribute to this repository by:
 | [0101-symmetric-tree](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0543-diameter-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0684-redundant-connection) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -117,6 +118,7 @@ Feel free to contribute to this repository by:
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0101-symmetric-tree) |
+| [0684-redundant-connection](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0684-redundant-connection) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## String Matching
 |  |
@@ -154,6 +156,7 @@ Feel free to contribute to this repository by:
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0684-redundant-connection) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Heap (Priority Queue)
@@ -218,4 +221,8 @@ Feel free to contribute to this repository by:
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Union Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
