@@ -80,6 +80,7 @@ Feel free to contribute to this repository by:
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0038-count-and-say) |
 | [0812-rotate-string](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
