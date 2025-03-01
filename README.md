@@ -37,6 +37,7 @@ Feel free to contribute to this repository by:
 | [2292-counting-words-with-a-given-prefix](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2551-apply-operations-to-an-array](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2551-apply-operations-to-an-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2554-minimum-total-distance-traveled) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -222,6 +223,7 @@ Feel free to contribute to this repository by:
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2551-apply-operations-to-an-array](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Sliding Window
@@ -233,6 +235,7 @@ Feel free to contribute to this repository by:
 ## Simulation
 |  |
 | ------- |
+| [2551-apply-operations-to-an-array](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
