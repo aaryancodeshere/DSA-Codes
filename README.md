@@ -217,6 +217,7 @@ Feel free to contribute to this repository by:
 |  |
 | ------- |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2610-closest-prime-numbers-in-range](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2716-prime-subtraction-operation) |
 | [3227-find-missing-and-repeated-values](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3227-find-missing-and-repeated-values) |
@@ -224,6 +225,7 @@ Feel free to contribute to this repository by:
 ## Number Theory
 |  |
 | ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2716-prime-subtraction-operation) |
 ## Two Pointers
 |  |
