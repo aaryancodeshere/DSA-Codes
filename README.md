@@ -102,6 +102,7 @@ Feel free to contribute to this repository by:
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2300-construct-string-with-repeat-limit) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2580-circular-sentence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2580-circular-sentence) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -241,6 +242,7 @@ Feel free to contribute to this repository by:
 |  |
 | ------- |
 | [1755-defuse-the-bomb](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1755-defuse-the-bomb) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Simulation
