@@ -56,6 +56,7 @@ Feel free to contribute to this repository by:
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -68,6 +69,7 @@ Feel free to contribute to this repository by:
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3643-zero-array-transformation-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -218,6 +220,7 @@ Feel free to contribute to this repository by:
 | [1940-maximum-xor-for-each-query](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3427-special-array-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3643-zero-array-transformation-ii) |
 ## Math
 |  |
 | ------- |
