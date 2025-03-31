@@ -24,6 +24,7 @@ Feel free to contribute to this repository by:
 ## Array
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0561-array-partition) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -89,6 +90,7 @@ Feel free to contribute to this repository by:
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0561-array-partition) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2089-maximum-matrix-sum](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2089-maximum-matrix-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2300-construct-string-with-repeat-limit) |
@@ -97,6 +99,7 @@ Feel free to contribute to this repository by:
 ## Sorting
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0561-array-partition) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -292,4 +295,8 @@ Feel free to contribute to this repository by:
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
