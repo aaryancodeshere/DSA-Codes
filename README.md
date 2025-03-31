@@ -43,6 +43,7 @@ Feel free to contribute to this repository by:
 | [2554-minimum-total-distance-traveled](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2554-minimum-total-distance-traveled) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2665-minimum-time-to-repair-cars) |
+| [2681-put-marbles-in-bags](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2681-put-marbles-in-bags) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -91,6 +92,7 @@ Feel free to contribute to this repository by:
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2089-maximum-matrix-sum](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2089-maximum-matrix-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2300-construct-string-with-repeat-limit) |
+| [2681-put-marbles-in-bags](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2681-put-marbles-in-bags) |
 | [2716-prime-subtraction-operation](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2716-prime-subtraction-operation) |
 ## Sorting
 |  |
@@ -99,6 +101,7 @@ Feel free to contribute to this repository by:
 | [2179-most-beautiful-item-for-each-query](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2554-minimum-total-distance-traveled](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2554-minimum-total-distance-traveled) |
+| [2681-put-marbles-in-bags](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2681-put-marbles-in-bags) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -207,6 +210,7 @@ Feel free to contribute to this repository by:
 | ------- |
 | [2300-construct-string-with-repeat-limit](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2300-construct-string-with-repeat-limit) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2681-put-marbles-in-bags](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2681-put-marbles-in-bags) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
