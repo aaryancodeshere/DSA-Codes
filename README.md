@@ -37,6 +37,7 @@ Feel free to contribute to this repository by:
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2089-maximum-matrix-sum](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2089-maximum-matrix-sum) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2262-solving-questions-with-brainpower](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2262-solving-questions-with-brainpower) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -88,6 +89,7 @@ Feel free to contribute to this repository by:
 | [1170-shortest-common-supersequence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1170-shortest-common-supersequence) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2262-solving-questions-with-brainpower](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2262-solving-questions-with-brainpower) |
 | [2554-minimum-total-distance-traveled](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2554-minimum-total-distance-traveled) |
 ## Greedy
 |  |
