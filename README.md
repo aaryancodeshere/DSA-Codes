@@ -307,4 +307,12 @@ Feel free to contribute to this repository by:
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0561-array-partition) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
