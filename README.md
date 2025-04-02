@@ -56,6 +56,7 @@ Feel free to contribute to this repository by:
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2845-find-the-value-of-the-partition](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2845-find-the-value-of-the-partition) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3291-find-if-array-can-be-sorted) |
