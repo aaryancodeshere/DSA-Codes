@@ -36,6 +36,7 @@ Feel free to contribute to this repository by:
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1940-maximum-xor-for-each-query](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1940-maximum-xor-for-each-query) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2089-maximum-matrix-sum](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2089-maximum-matrix-sum) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2262-solving-questions-with-brainpower](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2262-solving-questions-with-brainpower) |
@@ -179,6 +180,7 @@ Feel free to contribute to this repository by:
 |  |
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1940-maximum-xor-for-each-query) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -255,6 +257,7 @@ Feel free to contribute to this repository by:
 | ------- |
 | [0048-rotate-image](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0048-rotate-image) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2610-closest-prime-numbers-in-range](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2716-prime-subtraction-operation) |
@@ -321,4 +324,16 @@ Feel free to contribute to this repository by:
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0024-swap-nodes-in-pairs) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
