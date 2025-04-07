@@ -25,6 +25,7 @@ Feel free to contribute to this repository by:
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0048-rotate-image) |
+| [0416-partition-equal-subset-sum](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0416-partition-equal-subset-sum) |
 | [0561-array-partition](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0561-array-partition) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -89,6 +90,7 @@ Feel free to contribute to this repository by:
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1170-shortest-common-supersequence) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
