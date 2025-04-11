@@ -267,6 +267,7 @@ Feel free to contribute to this repository by:
 | [2610-closest-prime-numbers-in-range](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2716-prime-subtraction-operation) |
+| [2998-count-symmetric-integers](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Number Theory
@@ -342,4 +343,5 @@ Feel free to contribute to this repository by:
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2998-count-symmetric-integers](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
