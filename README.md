@@ -31,6 +31,7 @@ Feel free to contribute to this repository by:
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1656-count-good-triplets](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1656-count-good-triplets) |
 | [1755-defuse-the-bomb](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -347,6 +348,7 @@ Feel free to contribute to this repository by:
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3548-find-the-count-of-good-integers) |
