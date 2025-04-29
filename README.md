@@ -62,6 +62,7 @@ Feel free to contribute to this repository by:
 | [2888-minimum-index-of-a-valid-split](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3291-find-if-array-can-be-sorted) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -296,6 +297,7 @@ Feel free to contribute to this repository by:
 | ------- |
 | [1755-defuse-the-bomb](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1755-defuse-the-bomb) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3483-alternating-groups-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3483-alternating-groups-ii) |
