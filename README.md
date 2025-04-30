@@ -31,6 +31,7 @@ Feel free to contribute to this repository by:
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1511-count-number-of-teams](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1511-count-number-of-teams) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1656-count-good-triplets](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1656-count-good-triplets) |
 | [1755-defuse-the-bomb](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1755-defuse-the-bomb) |
@@ -99,6 +100,7 @@ Feel free to contribute to this repository by:
 | [0416-partition-equal-subset-sum](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1170-shortest-common-supersequence) |
+| [1511-count-number-of-teams](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1511-count-number-of-teams) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2262-solving-questions-with-brainpower) |
@@ -357,4 +359,12 @@ Feel free to contribute to this repository by:
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3548-find-the-count-of-good-integers) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1511-count-number-of-teams) |
+## Segment Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
