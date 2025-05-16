@@ -64,6 +64,7 @@ Feel free to contribute to this repository by:
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2845-find-the-value-of-the-partition](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2845-find-the-value-of-the-partition) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -109,6 +110,7 @@ Feel free to contribute to this repository by:
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2262-solving-questions-with-brainpower) |
 | [2554-minimum-total-distance-traveled](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2554-minimum-total-distance-traveled) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Greedy
 |  |
@@ -153,6 +155,7 @@ Feel free to contribute to this repository by:
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2580-circular-sentence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2580-circular-sentence) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
