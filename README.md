@@ -25,6 +25,7 @@ Feel free to contribute to this repository by:
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0048-rotate-image) |
+| [0075-sort-colors](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0075-sort-colors) |
 | [0416-partition-equal-subset-sum](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0416-partition-equal-subset-sum) |
 | [0561-array-partition](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0561-array-partition) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -127,6 +128,7 @@ Feel free to contribute to this repository by:
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0075-sort-colors) |
 | [0561-array-partition](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0561-array-partition) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -302,6 +304,7 @@ Feel free to contribute to this repository by:
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0075-sort-colors) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
