@@ -28,6 +28,7 @@ Feel free to contribute to this repository by:
 | [0035-search-insert-position](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0075-sort-colors) |
+| [0303-range-sum-query-immutable](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0303-range-sum-query-immutable) |
 | [0416-partition-equal-subset-sum](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0416-partition-equal-subset-sum) |
 | [0561-array-partition](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0561-array-partition) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -282,6 +283,7 @@ Feel free to contribute to this repository by:
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0303-range-sum-query-immutable) |
 | [1940-maximum-xor-for-each-query](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3427-special-array-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3427-special-array-ii) |
@@ -399,4 +401,8 @@ Feel free to contribute to this repository by:
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
