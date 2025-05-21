@@ -25,6 +25,7 @@ Feel free to contribute to this repository by:
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0075-sort-colors) |
 | [0416-partition-equal-subset-sum](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0416-partition-equal-subset-sum) |
@@ -89,6 +90,7 @@ Feel free to contribute to this repository by:
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0035-search-insert-position) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
