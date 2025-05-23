@@ -75,6 +75,7 @@ Feel free to contribute to this repository by:
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3291-find-if-array-can-be-sorted) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3427-special-array-ii) |
@@ -120,6 +121,7 @@ Feel free to contribute to this repository by:
 | [2554-minimum-total-distance-traveled](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2554-minimum-total-distance-traveled) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Greedy
 |  |
 | ------- |
@@ -132,6 +134,7 @@ Feel free to contribute to this repository by:
 | [2681-put-marbles-in-bags](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2681-put-marbles-in-bags) |
 | [2716-prime-subtraction-operation](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2716-prime-subtraction-operation) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3647-zero-array-transformation-iii) |
 ## Sorting
 |  |
@@ -151,6 +154,7 @@ Feel free to contribute to this repository by:
 | [2845-find-the-value-of-the-partition](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2845-find-the-value-of-the-partition) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3291-find-if-array-can-be-sorted](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3291-find-if-array-can-be-sorted) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3647-zero-array-transformation-iii) |
 ## String
 |  |
@@ -180,6 +184,7 @@ Feel free to contribute to this repository by:
 | [0543-diameter-of-binary-tree](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -220,6 +225,7 @@ Feel free to contribute to this repository by:
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3291-find-if-array-can-be-sorted) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3394-minimum-array-end](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3394-minimum-array-end) |
 ## Hash Table
 |  |
