@@ -117,6 +117,7 @@ Feel free to contribute to this repository by:
 | [1511-count-number-of-teams](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1511-count-number-of-teams) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2262-solving-questions-with-brainpower](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2262-solving-questions-with-brainpower) |
 | [2554-minimum-total-distance-traveled](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2554-minimum-total-distance-traveled) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -233,6 +234,7 @@ Feel free to contribute to this repository by:
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2215-finding-3-digit-even-numbers](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2215-finding-3-digit-even-numbers) |
 | [2300-construct-string-with-repeat-limit](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2300-construct-string-with-repeat-limit) |
@@ -252,6 +254,7 @@ Feel free to contribute to this repository by:
 ## Counting
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2300-construct-string-with-repeat-limit](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -262,6 +265,7 @@ Feel free to contribute to this repository by:
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0684-redundant-connection) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Heap (Priority Queue)
@@ -416,4 +420,12 @@ Feel free to contribute to this repository by:
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0303-range-sum-query-immutable) |
+## Topological Sort
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
