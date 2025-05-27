@@ -177,6 +177,7 @@ Feel free to contribute to this repository by:
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3451-string-compression-iii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3451-string-compression-iii) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Tree
 |  |
 | ------- |
@@ -354,10 +355,12 @@ Feel free to contribute to this repository by:
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Stack
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Monotonic Stack
 |  |
 | ------- |
