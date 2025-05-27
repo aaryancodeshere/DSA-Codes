@@ -319,6 +319,7 @@ Feel free to contribute to this repository by:
 | [3227-find-missing-and-repeated-values](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3227-find-missing-and-repeated-values) |
 | [3548-find-the-count-of-good-integers](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3879-find-minimum-log-transportation-cost](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3879-find-minimum-log-transportation-cost) |
 ## Number Theory
 |  |
 | ------- |
