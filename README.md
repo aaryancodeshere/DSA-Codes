@@ -195,6 +195,7 @@ Feel free to contribute to this repository by:
 | [0101-symmetric-tree](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0207-course-schedule](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0210-course-schedule-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0684-redundant-connection) |
@@ -214,6 +215,7 @@ Feel free to contribute to this repository by:
 | ------- |
 | [0101-symmetric-tree](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0101-symmetric-tree) |
 | [0207-course-schedule](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0210-course-schedule-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0684-redundant-connection) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -274,6 +276,7 @@ Feel free to contribute to this repository by:
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0684-redundant-connection) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -437,6 +440,7 @@ Feel free to contribute to this repository by:
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0210-course-schedule-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Memoization
 |  |
