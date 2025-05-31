@@ -32,6 +32,7 @@ Feel free to contribute to this repository by:
 | [0416-partition-equal-subset-sum](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0416-partition-equal-subset-sum) |
 | [0561-array-partition](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0561-array-partition) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0945-snakes-and-ladders](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0945-snakes-and-ladders) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -219,6 +220,7 @@ Feel free to contribute to this repository by:
 | [0210-course-schedule-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0210-course-schedule-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0684-redundant-connection) |
+| [0945-snakes-and-ladders](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0945-snakes-and-ladders) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -300,6 +302,7 @@ Feel free to contribute to this repository by:
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0048-rotate-image) |
+| [0945-snakes-and-ladders](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0945-snakes-and-ladders) |
 | [2089-maximum-matrix-sum](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2089-maximum-matrix-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
