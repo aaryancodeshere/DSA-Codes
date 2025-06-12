@@ -249,6 +249,7 @@ Feel free to contribute to this repository by:
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0146-lru-cache) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -407,6 +408,7 @@ Feel free to contribute to this repository by:
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0092-reverse-linked-list-ii) |
+| [0146-lru-cache](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -450,6 +452,7 @@ Feel free to contribute to this repository by:
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0303-range-sum-query-immutable) |
 ## Topological Sort
 |  |
@@ -465,4 +468,8 @@ Feel free to contribute to this repository by:
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0386-lexicographical-numbers) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
