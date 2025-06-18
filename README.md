@@ -76,6 +76,7 @@ Feel free to contribute to this repository by:
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3227-find-missing-and-repeated-values) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -142,6 +143,7 @@ Feel free to contribute to this repository by:
 | [2716-prime-subtraction-operation](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3647-zero-array-transformation-iii) |
@@ -162,6 +164,7 @@ Feel free to contribute to this repository by:
 | [2699-count-the-number-of-fair-pairs](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2845-find-the-value-of-the-partition](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2845-find-the-value-of-the-partition) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3647-zero-array-transformation-iii) |
