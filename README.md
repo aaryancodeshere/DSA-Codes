@@ -28,6 +28,7 @@ Feel free to contribute to this repository by:
 | [0035-search-insert-position](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0118-pascals-triangle) |
 | [0303-range-sum-query-immutable](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0303-range-sum-query-immutable) |
 | [0416-partition-equal-subset-sum](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0416-partition-equal-subset-sum) |
 | [0561-array-partition](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0561-array-partition) |
@@ -115,6 +116,7 @@ Feel free to contribute to this repository by:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
