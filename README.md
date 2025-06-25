@@ -27,6 +27,7 @@ Feel free to contribute to this repository by:
 | [0033-search-in-rotated-sorted-array](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0118-pascals-triangle) |
 | [0303-range-sum-query-immutable](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0303-range-sum-query-immutable) |
@@ -116,6 +117,7 @@ Feel free to contribute to this repository by:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0416-partition-equal-subset-sum) |
@@ -486,4 +488,8 @@ Feel free to contribute to this repository by:
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0146-lru-cache) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
