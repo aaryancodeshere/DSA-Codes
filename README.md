@@ -123,6 +123,7 @@ Feel free to contribute to this repository by:
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0416-partition-equal-subset-sum) |
@@ -359,6 +360,7 @@ Feel free to contribute to this repository by:
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0062-unique-paths) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -451,6 +453,7 @@ Feel free to contribute to this repository by:
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3201-distribute-candies-among-children-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3548-find-the-count-of-good-integers) |
