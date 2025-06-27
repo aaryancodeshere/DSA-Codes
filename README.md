@@ -32,6 +32,7 @@ Feel free to contribute to this repository by:
 | [0075-sort-colors](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0303-range-sum-query-immutable) |
 | [0416-partition-equal-subset-sum](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0416-partition-equal-subset-sum) |
@@ -161,6 +162,7 @@ Feel free to contribute to this repository by:
 | [0056-merge-intervals](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0229-majority-element-ii) |
 | [0561-array-partition](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0561-array-partition) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -271,6 +273,7 @@ Feel free to contribute to this repository by:
 | ------- |
 | [0146-lru-cache](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0229-majority-element-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -296,6 +299,7 @@ Feel free to contribute to this repository by:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0229-majority-element-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2300-construct-string-with-repeat-limit](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2308-divide-array-into-equal-pairs) |
