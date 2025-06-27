@@ -14,11 +14,11 @@ public:
             else if(ele2 == nums[i]){
                 count2++;
             }
-            else if(count1==0 && nums[i]!=ele2){
+            else if(count1==0 ){
                 ele1=nums[i];
                 count1 = 1;
             }
-            else if(count2==0 && nums[i] != ele1){
+            else if(count2==0 ){
                 ele2 = nums[i];
                 count2 = 1;
             }
