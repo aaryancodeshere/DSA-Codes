@@ -448,10 +448,12 @@ Feel free to contribute to this repository by:
 | [0024-swap-nodes-in-pairs](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0092-reverse-linked-list-ii) |
 | [0146-lru-cache](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0206-reverse-linked-list) |
 | [2050-count-good-numbers](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2050-count-good-numbers) |
 ## Backtracking
 |  |
