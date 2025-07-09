@@ -103,6 +103,7 @@ Feel free to contribute to this repository by:
 | [3643-zero-array-transformation-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Binary Search
 |  |
@@ -164,6 +165,7 @@ Feel free to contribute to this repository by:
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3647-zero-array-transformation-iii) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Sorting
 |  |
 | ------- |
@@ -422,6 +424,7 @@ Feel free to contribute to this repository by:
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3483-alternating-groups-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3483-alternating-groups-ii) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Simulation
 |  |
 | ------- |
