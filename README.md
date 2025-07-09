@@ -27,6 +27,7 @@ Feel free to contribute to this repository by:
 | [0018-4sum](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0056-merge-intervals) |
@@ -126,6 +127,7 @@ Feel free to contribute to this repository by:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0118-pascals-triangle) |
@@ -397,6 +399,7 @@ Feel free to contribute to this repository by:
 |  |
 | ------- |
 | [0018-4sum](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -432,12 +435,14 @@ Feel free to contribute to this repository by:
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0042-trapping-rain-water) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0042-trapping-rain-water) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Union Find
 |  |
