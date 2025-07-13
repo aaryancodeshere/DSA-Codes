@@ -32,6 +32,7 @@ Feel free to contribute to this repository by:
 | [0053-maximum-subarray](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0075-sort-colors) |
+| [0090-subsets-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0229-majority-element-ii) |
@@ -272,6 +273,7 @@ Feel free to contribute to this repository by:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0287-find-the-duplicate-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -477,6 +479,7 @@ Feel free to contribute to this repository by:
 ## Backtracking
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0090-subsets-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
