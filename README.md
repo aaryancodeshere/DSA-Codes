@@ -41,6 +41,7 @@ Feel free to contribute to this repository by:
 | [0416-partition-equal-subset-sum](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0594-longest-harmonious-subsequence) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -447,6 +448,7 @@ Feel free to contribute to this repository by:
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0503-next-greater-element-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3860-resulting-string-after-adjacent-removals) |
@@ -455,6 +457,7 @@ Feel free to contribute to this repository by:
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0503-next-greater-element-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Union Find
 |  |
