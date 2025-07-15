@@ -200,6 +200,7 @@ Feel free to contribute to this repository by:
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0038-count-and-say) |
+| [0556-next-greater-element-iii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0556-next-greater-element-iii) |
 | [0812-rotate-string](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0812-rotate-string) |
 | [1170-shortest-common-supersequence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1170-shortest-common-supersequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -384,6 +385,7 @@ Feel free to contribute to this repository by:
 | [0048-rotate-image](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0062-unique-paths) |
+| [0556-next-greater-element-iii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0556-next-greater-element-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -412,6 +414,7 @@ Feel free to contribute to this repository by:
 | [0042-trapping-rain-water](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0287-find-the-duplicate-number) |
+| [0556-next-greater-element-iii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0556-next-greater-element-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
