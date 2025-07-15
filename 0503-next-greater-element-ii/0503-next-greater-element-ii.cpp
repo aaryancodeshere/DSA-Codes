@@ -10,9 +10,9 @@ public:
             while(!s.empty() && s.top()<=nums[i%m]){
                 s.pop();
             }
-            if (i < m) {
-                ng[i] = s.empty() ? -1 : s.top();
-            }
+            
+                ng[i%m] = s.empty() ? -1 : s.top();
+            
 
 
             s.push(nums[i%m]);
