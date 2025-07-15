@@ -214,6 +214,7 @@ Feel free to contribute to this repository by:
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3396-valid-word](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3451-string-compression-iii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3451-string-compression-iii) |
 | [3617-find-the-original-typed-string-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3617-find-the-original-typed-string-i) |
