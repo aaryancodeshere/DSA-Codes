@@ -378,6 +378,7 @@ Feel free to contribute to this repository by:
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0062-unique-paths) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -473,6 +474,7 @@ Feel free to contribute to this repository by:
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0024-swap-nodes-in-pairs) |
+| [0060-permutation-sequence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0206-reverse-linked-list) |
 | [2050-count-good-numbers](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
