@@ -37,6 +37,7 @@ Feel free to contribute to this repository by:
 | [0169-majority-element](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0303-range-sum-query-immutable) |
 | [0416-partition-equal-subset-sum](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0485-max-consecutive-ones) |
@@ -115,6 +116,7 @@ Feel free to contribute to this repository by:
 | [0033-search-in-rotated-sorted-array](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0300-longest-increasing-subsequence) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -138,6 +140,7 @@ Feel free to contribute to this repository by:
 | [0062-unique-paths](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1170-shortest-common-supersequence) |
