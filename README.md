@@ -98,6 +98,7 @@ Feel free to contribute to this repository by:
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3429-special-array-i) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3483-alternating-groups-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -154,6 +155,7 @@ Feel free to contribute to this repository by:
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Greedy
@@ -174,6 +176,7 @@ Feel free to contribute to this repository by:
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3647-zero-array-transformation-iii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3647-zero-array-transformation-iii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Sorting
@@ -461,6 +464,7 @@ Feel free to contribute to this repository by:
 | [0503-next-greater-element-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0503-next-greater-element-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Monotonic Stack
 |  |
@@ -469,6 +473,7 @@ Feel free to contribute to this repository by:
 | [0496-next-greater-element-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0503-next-greater-element-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Union Find
 |  |
 | ------- |
