@@ -53,6 +53,7 @@ Feel free to contribute to this repository by:
 | [1511-count-number-of-teams](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1511-count-number-of-teams) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1628-count-submatrices-with-all-ones](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1628-count-submatrices-with-all-ones) |
 | [1656-count-good-triplets](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1656-count-good-triplets) |
 | [1755-defuse-the-bomb](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -147,6 +148,7 @@ Feel free to contribute to this repository by:
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1170-shortest-common-supersequence) |
 | [1511-count-number-of-teams](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1511-count-number-of-teams) |
+| [1628-count-submatrices-with-all-ones](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1628-count-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -370,6 +372,7 @@ Feel free to contribute to this repository by:
 | ------- |
 | [0048-rotate-image](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0048-rotate-image) |
 | [0945-snakes-and-ladders](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0945-snakes-and-ladders) |
+| [1628-count-submatrices-with-all-ones](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1628-count-submatrices-with-all-ones) |
 | [2089-maximum-matrix-sum](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2089-maximum-matrix-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -463,6 +466,7 @@ Feel free to contribute to this repository by:
 | [0496-next-greater-element-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0503-next-greater-element-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1628-count-submatrices-with-all-ones](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1628-count-submatrices-with-all-ones) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3860-resulting-string-after-adjacent-removals) |
@@ -473,6 +477,7 @@ Feel free to contribute to this repository by:
 | [0496-next-greater-element-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0503-next-greater-element-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1628-count-submatrices-with-all-ones](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1628-count-submatrices-with-all-ones) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Union Find
 |  |
