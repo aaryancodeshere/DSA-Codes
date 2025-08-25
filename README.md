@@ -42,6 +42,7 @@ Feel free to contribute to this repository by:
 | [0416-partition-equal-subset-sum](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0594-longest-harmonious-subsequence) |
@@ -373,6 +374,7 @@ Feel free to contribute to this repository by:
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0048-rotate-image) |
+| [0498-diagonal-traverse](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0945-snakes-and-ladders) |
 | [1628-count-submatrices-with-all-ones](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1628-count-submatrices-with-all-ones) |
 | [2089-maximum-matrix-sum](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2089-maximum-matrix-sum) |
@@ -454,6 +456,7 @@ Feel free to contribute to this repository by:
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0498-diagonal-traverse) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2551-apply-operations-to-an-array](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2692-take-gifts-from-the-richest-pile) |
