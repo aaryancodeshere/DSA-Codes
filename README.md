@@ -52,6 +52,7 @@ Feel free to contribute to this repository by:
 | [1468-check-if-n-and-its-double-exist](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1511-count-number-of-teams](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1511-count-number-of-teams) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1628-count-submatrices-with-all-ones) |
 | [1656-count-good-triplets](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1656-count-good-triplets) |
@@ -148,6 +149,7 @@ Feel free to contribute to this repository by:
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1170-shortest-common-supersequence) |
 | [1511-count-number-of-teams](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1511-count-number-of-teams) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1628-count-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -441,6 +443,7 @@ Feel free to contribute to this repository by:
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0594-longest-harmonious-subsequence) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1755-defuse-the-bomb) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
