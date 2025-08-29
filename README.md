@@ -408,6 +408,7 @@ Feel free to contribute to this repository by:
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2050-count-good-numbers) |
+| [2481-strictly-palindromic-number](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2481-strictly-palindromic-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2649-count-total-number-of-colored-cells) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -437,6 +438,7 @@ Feel free to contribute to this repository by:
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2481-strictly-palindromic-number](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2481-strictly-palindromic-number) |
 | [2551-apply-operations-to-an-array](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -577,4 +579,8 @@ Feel free to contribute to this repository by:
 | ------- |
 | [0053-maximum-subarray](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0169-majority-element) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
