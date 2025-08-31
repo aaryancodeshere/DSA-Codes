@@ -27,6 +27,7 @@ Feel free to contribute to this repository by:
 | [0018-4sum](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0053-maximum-subarray) |
@@ -307,6 +308,7 @@ Feel free to contribute to this repository by:
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0036-valid-sudoku) |
 | [0146-lru-cache](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0229-majority-element-ii) |
@@ -373,6 +375,7 @@ Feel free to contribute to this repository by:
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0048-rotate-image) |
 | [0498-diagonal-traverse](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0945-snakes-and-ladders) |
