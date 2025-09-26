@@ -258,6 +258,7 @@ Feel free to contribute to this repository by:
 | [0210-course-schedule-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0210-course-schedule-ii) |
 | [0386-lexicographical-numbers](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0684-redundant-connection) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -278,6 +279,7 @@ Feel free to contribute to this repository by:
 | [0101-symmetric-tree](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0101-symmetric-tree) |
 | [0207-course-schedule](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0684-redundant-connection) |
 | [0945-snakes-and-ladders](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0945-snakes-and-ladders) |
@@ -353,6 +355,7 @@ Feel free to contribute to this repository by:
 | ------- |
 | [0207-course-schedule](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0684-redundant-connection) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -493,6 +496,7 @@ Feel free to contribute to this repository by:
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0684-redundant-connection) |
 ## Binary Search Tree
 |  |
