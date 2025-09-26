@@ -47,6 +47,7 @@ Feel free to contribute to this repository by:
 | [0503-next-greater-element-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0611-valid-triangle-number) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0945-snakes-and-ladders](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0945-snakes-and-ladders) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -123,6 +124,7 @@ Feel free to contribute to this repository by:
 | [0035-search-insert-position](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0300-longest-increasing-subsequence) |
+| [0611-valid-triangle-number](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0611-valid-triangle-number) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -168,6 +170,7 @@ Feel free to contribute to this repository by:
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0561-array-partition) |
+| [0611-valid-triangle-number](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0611-valid-triangle-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -195,6 +198,7 @@ Feel free to contribute to this repository by:
 | [0229-majority-element-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0229-majority-element-ii) |
 | [0561-array-partition](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0611-valid-triangle-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -439,6 +443,7 @@ Feel free to contribute to this repository by:
 | [0075-sort-colors](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0287-find-the-duplicate-number) |
 | [0556-next-greater-element-iii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0556-next-greater-element-iii) |
+| [0611-valid-triangle-number](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
