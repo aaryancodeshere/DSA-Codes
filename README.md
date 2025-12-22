@@ -50,6 +50,7 @@ Feel free to contribute to this repository by:
 | [0611-valid-triangle-number](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0611-valid-triangle-number) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0945-snakes-and-ladders](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0945-snakes-and-ladders) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -151,6 +152,7 @@ Feel free to contribute to this repository by:
 | [0300-longest-increasing-subsequence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1170-shortest-common-supersequence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1170-shortest-common-supersequence) |
 | [1511-count-number-of-teams](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -222,6 +224,7 @@ Feel free to contribute to this repository by:
 | [0038-count-and-say](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0038-count-and-say) |
 | [0556-next-greater-element-iii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0556-next-greater-element-iii) |
 | [0812-rotate-string](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0812-rotate-string) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1170-shortest-common-supersequence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1170-shortest-common-supersequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
