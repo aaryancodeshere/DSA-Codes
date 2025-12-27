@@ -525,12 +525,14 @@ Feel free to contribute to this repository by:
 | [0024-swap-nodes-in-pairs](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0092-reverse-linked-list-ii) |
 | [0146-lru-cache](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0146-lru-cache) |
+| [0203-remove-linked-list-elements](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0024-swap-nodes-in-pairs) |
 | [0060-permutation-sequence](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0060-permutation-sequence) |
+| [0203-remove-linked-list-elements](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0206-reverse-linked-list) |
 | [2050-count-good-numbers](https://github.com/aaryancodeshere/DSA-Codes/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aaryancodeshere/DSA-Codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
