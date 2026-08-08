@@ -226,6 +226,7 @@ Feel free to contribute to this repository by:
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0008-string-to-integer-atoi) |
 | [0038-count-and-say](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0038-count-and-say) |
 | [0556-next-greater-element-iii](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0556-next-greater-element-iii) |
 | [0647-palindromic-substrings](https://github.com/aaryancodeshere/DSA-Codes/tree/master/0647-palindromic-substrings) |
